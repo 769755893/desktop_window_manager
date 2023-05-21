@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:collection/collection.dart';
 import 'package:desktop_lifecycle/desktop_lifecycle.dart';
-import 'package:desktop_multi_window/desktop_multi_window.dart';
+import 'package:desktop_multi_window_manager/desktop_multi_window_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_multi_window_example/event_widget.dart';
 import 'package:flutter/foundation.dart';

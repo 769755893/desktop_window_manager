@@ -6,7 +6,7 @@ import FlutterMacOS
 import Foundation
 
 import desktop_lifecycle
-import desktop_multi_window
+import desktop_multi_window_manager
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   DesktopLifecyclePlugin.register(with: registry.registrar(forPlugin: "DesktopLifecyclePlugin"))
